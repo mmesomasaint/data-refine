@@ -1,5 +1,7 @@
 # Repository Directory Structure
 
+## Directory map
+
 ```Plaintext
 data-refine/
 ├── app/
