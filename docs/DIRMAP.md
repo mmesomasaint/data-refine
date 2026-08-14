@@ -1,5 +1,6 @@
 # Repository Directory Structure
 
+```Plaintext
 data-refine/
 ├── app/
 │   ├── __init__.py
@@ -47,3 +48,4 @@ data-refine/
 ├── pytest.ini
 ├── README.md                     # Enterprise handover & operational guide
 └── requirements.txt              # Locked application dependencies
+```
